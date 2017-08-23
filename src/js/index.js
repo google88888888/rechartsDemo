@@ -16,7 +16,8 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            hasLogin:false,
+            //hasLogin:false,
+            hasLogin:true,
             accessToken:"",
 
         };
