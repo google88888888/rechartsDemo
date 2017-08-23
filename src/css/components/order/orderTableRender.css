@@ -1,0 +1,24 @@
+/**
+ * Created by mengjiuxiang on 2017/4/14.
+ */
+
+.item-first-span-order-table-render{
+    float:left;
+    margin-top:15px;
+    font-size:14px;
+    color: #ccc;
+}
+.item-second-span-order-table-render{
+    margin-left:30px;
+    float:left;
+    margin-top:15px;
+    font-size:14px;
+    color: #ccc;
+}
+
+.item-span-order-table-render{
+    float:left;
+    margin-top:15px;
+    font-size:14px;
+
+}
